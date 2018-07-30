@@ -1,6 +1,6 @@
 # Don't want to accidentally share your personal data.
 .imgursyncconfig
-
+imgurpython
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
